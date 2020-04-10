@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FriendsTableViewController.swift
 //  HobbyTracker(iOSPT6)
 //
 //  Created by Jimmy Brown on 4/9/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FriendsTableViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()

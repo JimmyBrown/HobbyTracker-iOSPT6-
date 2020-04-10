@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3EC983BD2440055600A49FF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC983BC2440055600A49FF1 /* AppDelegate.swift */; };
 		3EC983BF2440055600A49FF1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC983BE2440055600A49FF1 /* SceneDelegate.swift */; };
-		3EC983C12440055600A49FF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC983C02440055600A49FF1 /* ViewController.swift */; };
+		3EC983C12440055600A49FF1 /* FriendsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC983C02440055600A49FF1 /* FriendsTableViewController.swift */; };
 		3EC983C42440055600A49FF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EC983C22440055600A49FF1 /* Main.storyboard */; };
 		3EC983C62440055700A49FF1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EC983C52440055700A49FF1 /* Assets.xcassets */; };
 		3EC983C92440055700A49FF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EC983C72440055700A49FF1 /* LaunchScreen.storyboard */; };
@@ -19,7 +19,7 @@
 		3EC983B92440055600A49FF1 /* HobbyTracker(iOSPT6).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HobbyTracker(iOSPT6).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EC983BC2440055600A49FF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EC983BE2440055600A49FF1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		3EC983C02440055600A49FF1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3EC983C02440055600A49FF1 /* FriendsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsTableViewController.swift; sourceTree = "<group>"; };
 		3EC983C32440055600A49FF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3EC983C52440055700A49FF1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EC983C82440055700A49FF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 			children = (
 				3EC983BC2440055600A49FF1 /* AppDelegate.swift */,
 				3EC983BE2440055600A49FF1 /* SceneDelegate.swift */,
-				3EC983C02440055600A49FF1 /* ViewController.swift */,
+				3EC983C02440055600A49FF1 /* FriendsTableViewController.swift */,
 				3EC983C22440055600A49FF1 /* Main.storyboard */,
 				3EC983C52440055700A49FF1 /* Assets.xcassets */,
 				3EC983C72440055700A49FF1 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3EC983C12440055600A49FF1 /* ViewController.swift in Sources */,
+				3EC983C12440055600A49FF1 /* FriendsTableViewController.swift in Sources */,
 				3EC983BD2440055600A49FF1 /* AppDelegate.swift in Sources */,
 				3EC983BF2440055600A49FF1 /* SceneDelegate.swift in Sources */,
 			);
